@@ -60,3 +60,13 @@ After analyzing the results of our clustering analysis, we determined that 10 cl
 7. Finally we created recommender system using cosine similarity on our tfidf matrix.
 
 8. Then, we checked the working of our recommender system by passing different movie names to it, and it performed well on them.
+
+# Additional Notes
+
+- Incorporating external datasets, such as IMDB ratings and Rotten Tomatoes, with this dataset can yield numerous intriguing discoveries.
+
+- More time could be given on clustering analysis to try out different clustering algorithms like DBSCAN.
+
+- More time could be given in improving the recommender system and building a working app on this recommender system.
+
+#
