@@ -13,7 +13,22 @@ In this project, you are required to do
 - Understanding what type content is available in different countries
 - If Netflix has been increasingly focusing on TV rather than movies in recent years.
 - Clustering similar content by matching text-based features
-- Dataset Description
+ Dataset Description
+
+
+| Variable Name | Description |
+|---|---|
+| title | Title of the movie or TV show. |
+| director | Director of the movie or TV show. |
+| cast | List of actors and actresses who starred in the movie or TV show. |
+| country | Country where the movie or TV show was produced. |
+| date_added | Date on which the movie or TV show was added to Netflix. |
+| release_year | Year in which the movie or TV show was released. |
+| rating | Rating of the movie or TV show on Netflix. |
+| duration | Duration of the movie or TV show in minutes. |
+| listed_in | List of genres to which the movie or TV show belongs. |
+| description | Description of the movie or TV show. |
+
 
 
 
